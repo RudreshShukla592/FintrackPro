@@ -51,7 +51,7 @@ FinTrackPro helps users manage their income and expenses, track their balance, a
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/RudreshShukla592/FintrackPro
 cd FinTrackPro
 ```
 
